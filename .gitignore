@@ -23,7 +23,8 @@
 /local/components/uplab/weather.gismeteo/data/*
 
 /local/components/uplab/weather.gismeteo/data/*.json
-
+/vendor/
+/templates/
 cmsmagazine*.txt
 yandex_*.txt
 yandex_*.html

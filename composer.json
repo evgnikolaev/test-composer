@@ -1,0 +1,27 @@
+{
+    "name": "uplab/region.aero",
+    "authors": [
+        {
+            "name": "Uplab Team",
+            "email": "webmaster@uplab.ru"
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+            "templates/": [
+                "uplab/test-git"
+            ]
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/evgnikolaev/test-git.git"
+        }
+    ],
+
+    "require": {
+        "twig/twig": "^3.0",
+        "uplab/test-git": "dev-master"
+    }
+}
