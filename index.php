@@ -7,6 +7,7 @@
           Нужно перейти в папка с php (должно быть расширение ssl) и установить там composer. Добавиться в эту папку composer.phar
 
 
+		!! Устанавливаем по официальной документации, или
 		Установка - самое понятное объяснение
           https://www.youtube.com/watch?v=0URLhgzAxiY
 		  https://codearmy.ru/dev/setup-composer-global
